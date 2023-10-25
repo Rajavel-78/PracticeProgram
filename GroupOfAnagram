@@ -14,8 +14,7 @@ import java.io.*;
 public class Examble {
 
 	public static void main(String[] args) {
-        var c=po;
-		var d=lk;
+      
 		String[] arr= {""};
 		Examble ex=new Examble();
 		System.out.println(ex.operation(arr));	
